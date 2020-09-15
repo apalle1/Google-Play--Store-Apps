@@ -1,5 +1,3 @@
-**IMPORTANT NOTE - Several plots in the "Google Apps.ipynb" file are made using Plotly. Since Github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph, these Plotly plots cannot be viewed here. To view these plots, please click on "Open In Colab".**
-
 # Google-Play-Store-Apps
 Web scraped data of 10k Play Store apps for analysing the Android market.
 
