@@ -1,3 +1,5 @@
+**The plots made using Plotly cannot be viewed since Github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. To view the Plotly plots click on "Open In Colab"**
+
 # Google-Play-Store-Apps
 Web scraped data of 10k Play Store apps for analysing the Android market.
 
